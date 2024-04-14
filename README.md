@@ -1,2 +1,2 @@
-# windows_pass_changer
-Rename pc_pass_changer.py to win_pass_changer.py
+# windows_password_changer
+A simple windows password changer written in Python
